@@ -1,7 +1,8 @@
  # **Hi, I'm Roberto Carlos Ricci** 👩‍💻 👋 
  
  
-* 👩‍💻 Data Scientist .
+* 👩‍💻 Data Scientist.
+* 📊 Data Analitcs.
 * 📊 Business consultant.
 
 ## Skills 👩‍💻
