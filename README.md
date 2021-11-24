@@ -15,8 +15,11 @@
 * 🗄 SQL.
 * 💻 PL/SQL.
 * 🧮 Oracle.
-* 📊 Data Visualization
-* :art: Figma
+* 📊 Data Visualization.
+* :art: Figma.
+* :elephant: PHP.
+* 📚 BPM.
+* 💬 FLUIG.
 
 
 ## Without data, you're just another person with an opinion :gift_heart:
