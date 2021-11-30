@@ -29,8 +29,8 @@
 
 [![Portifolio Badge](https://img.shields.io/badge/-portif%C3%B3lio-yellow?style=flat-square&logo=powerbi&logoColor=white&link=https://robertoricci.github.io/pbisolutions.github.io/)](https://robertoricci.github.io/pbisolutions.github.io/)
 
-<a href="mailto:roberto.rricci@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-
+<a href="mailto:roberto.rricci@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+ 
  
  [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@robertoricci)](https://medium.com/@robertoricci)
  
