@@ -1,5 +1,5 @@
 
-# **Hi, I'm Roberto Carlos Ricci   -  Student data Science** 👩‍💻 👋 
+# **Hi, I'm Roberto Carlos Ricci - Data analytics -  Student data Science** 👩‍💻 👋 
  
 
 * 👩‍💻 Data Scientist.
