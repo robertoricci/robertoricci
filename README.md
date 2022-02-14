@@ -38,5 +38,5 @@
  
  ## 🚀 **Linguagens e Ferramentas:**
  
- ![Snake animation](https://github.com/robertoricci/robertoricci/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/robertoricci/robertoricci/blob/main/github-contribution-grid-snake.svg)
 
