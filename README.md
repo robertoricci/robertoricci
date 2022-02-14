@@ -6,7 +6,7 @@
 ### * 👩‍💻 Data Scientist.
 ### * 📊 Data Analitcs.
 
-# 🔥 &nbsp; My Stats :
+### 🔥 &nbsp; My Stats :
  <div align="left">
   <a href="https://github.com/robertoricci">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=robertoricci&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
