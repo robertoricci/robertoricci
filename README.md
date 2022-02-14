@@ -32,6 +32,9 @@
 <a href="mailto:roberto.rricci@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
  
  
+ ![Snake animation](https://github.com/robertoricci/robertoricci/blob/output/github-contribution-grid-snake.svg)
+ 
+ 
  [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@robertoricci)](https://medium.com/@robertoricci)
  
  ## 🚀 **Linguagens e Ferramentas:**
