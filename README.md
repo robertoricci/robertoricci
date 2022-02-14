@@ -9,9 +9,9 @@
 ### 🔥 &nbsp; My Stats :
  <div align="left">
   <a href="https://github.com/robertoricci">
-  <img height="150em" width="270em" src="https://github-readme-stats.vercel.app/api?username=robertoricci&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="150em" width="270em"  src="http://github-readme-streak-stats.herokuapp.com?user=robertoricci&theme=dark&background=000000"/>
-   <img height="150em" width="270em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertoricci&layout=compact&langs_count=7&theme=dark"/>
+  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=robertoricci&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img width="30%" src="http://github-readme-streak-stats.herokuapp.com?user=robertoricci&theme=dark&background=000000"/>
+   <img width="30%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertoricci&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
 
