@@ -33,19 +33,21 @@
 
 
 ## Without data, you're just another person with an opinion :gift_heart:
- 
+
  <div>
+  <p>
  <a href="https://www.linkedin.com/in/roberto-carlos-ricci" target="_blank"><img src="https://img.shields.io/badge/-%40robertoricci-blue?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"> </a> 
   <a href="https://robertoricci.github.io/pbisolutions.github.io" target="_blank"><img src="https://img.shields.io/badge/-portif%C3%B3lio-yellow?style=flat-   square&logo=powerbi&logoColor=white" target="_blank"> </a> 
     <a href="mailto:roberto.rricci@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" target="_blank"> </a> 
    <a href="https://medium.com/@robertoricci/" target="_blank"><img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white" target="_blank"></a>
    <a href="https://www.youtube.com/channel/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-   badge&logo=youtube&logoColor=white" target="_blank"></a>
- 
+  <p>
  </div>
- 
 
+ ##
  ## 🚀 🛠 &nbsp;Languages and Tools :
  
+ <p>
   <div style="display: inline_block"><br>
    <a href="">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -63,11 +65,11 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
- 
-   
-  
   </div>
  
+ <p>
+  
+ ##
  
  ![Snake animation](https://github.com/robertoricci/robertoricci/blob/main/github-contribution-grid-snake.svg)
 
