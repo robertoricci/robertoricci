@@ -52,8 +52,12 @@
    <a href="">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    </a>
-  <img align="center" alt="Power BI" height="30" width="30" src="https://indiciatraining.com/wp-content/uploads/2019/10/power-bi_logo_transparent.png">
-  <img align="center" alt="Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+   <a href="">
+   <img align="center" alt="Power BI" height="30" width="30" src="https://indiciatraining.com/wp-content/uploads/2019/10/power-bi_logo_transparent.png">
+    </a>
+    <a href="https://www.oracle.com/" target="_blank">
+    <img align="center" alt="Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+    <a/>
     <a href="">
     <img align="center" alt="SQL Server" height="30" width="40" src="https://altyra.com/wp-content/uploads/2018/11/microsoft-sql-server-logo-png.png">
    </a>
@@ -65,6 +69,9 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+  <a href="https://www.figma.com/" target="_blank">
+    <img align="center" alt="Python" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+  </a>
   </div>
  
  <p>
