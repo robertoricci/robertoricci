@@ -1,9 +1,9 @@
 
  
-# **Hi, I'm Roberto Carlos Ricci - Data analytics -  Student data Science** 👩‍💻 👋 
+# **Hi, I'm Roberto Carlos Ricci - Data analytics -  Student Quant analyst** 👩‍💻 👋 
  
 
-### * 👩‍💻 Data Scientist.
+### * 👩‍💻 Quant analyst.
 ### * 📊 Data Analitcs.
 
 ### 🔥 &nbsp; My Stats :
