@@ -1,10 +1,10 @@
 
  
-# **Hi, I'm Roberto Carlos Ricci - Data analytics -  Student Quant analyst** 👩‍💻 👋 
+# **Hi, I'm Roberto Carlos Ricci - Analytics Engineer -  Student Quant analyst** 👩‍💻 👋 
  
-
-### * 👩‍💻 Quant analyst.
-### * 📊 Data Analitcs.
+### * 📊 Analytics Engineer.
+### * 👩‍💻 Student Quant analyst.
+### * 📚 Student Engineer.
 
 ### 🔥 &nbsp; My Stats :
  <div align="left">
