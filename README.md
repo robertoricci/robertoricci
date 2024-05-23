@@ -20,7 +20,7 @@
 * 🐍 Python.
 * 🔮 Machine Learning.
 * 🚀 Airflow
-* :earth_americas Azure 
+* :earth_americas: Azure 
 * 📈 Power Bi.
 * :pencil: DAX
 * :trophy: M
