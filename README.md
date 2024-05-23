@@ -19,6 +19,7 @@
 
 * 🐍 Python.
 * 🔮 Machine Learning.
+* 🚀 Airflow
 * 📈 Power Bi.
 * :pencil: DAX
 * :trophy: M
